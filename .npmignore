@@ -1,0 +1,10 @@
+idea
+.vscode
+coverage
+deployment
+src
+.babelrc
+.eslintrc*
+.sass-lint*
+jest.*
+webpack.config.*

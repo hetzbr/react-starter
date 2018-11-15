@@ -1,0 +1,19 @@
+{
+  "presets": [
+    "react",
+    [
+      "env", {
+        "targets": {
+          "browsers": [
+            "ie 11"
+          ]
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-object-rest-spread",
+    "transform-class-properties"
+  ]
+}
